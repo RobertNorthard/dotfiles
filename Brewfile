@@ -4,7 +4,6 @@
 tap caskroom/cask
 install brew-cask
 
-
 # Update and upgrade. 
 update
 upgrade
