@@ -1,0 +1,8 @@
+#
+# File for exports
+#
+
+# Terminal colours
+export PS1="\[\033[36m\]\u\[\033[m\]:\h:\[\033[33;1m\]\W\[\033[m\]\$ "
+export CLICOLOR=1
+export LSCOLOURS=gxBxhxDxfxhxhxhxhxcxcx
