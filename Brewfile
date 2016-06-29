@@ -11,11 +11,12 @@ upgrade
 install git
 install git-flow
 
-cask install google-chrome
-cask install atom
-cask install dropbox
-cask install firefox
-cask install virtualbox
-cask install vagrant
-cask install vlc
-cask install skype
+brew install google-chrome
+brew install atom
+brew install dropbox
+brew install firefox
+brew install virtualbox
+brew install vagrant
+brew install vlc
+brew install skype
+brew install git
