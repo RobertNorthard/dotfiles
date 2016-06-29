@@ -1,0 +1,8 @@
+#
+# Aliases/Shortcuts
+#
+
+alias ll="ls -la"
+
+# OS X lock screen
+alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
