@@ -2,10 +2,12 @@
 # Useful functions
 #
 
-
-
 function server(){
 	port=8000
 	sleep 1 && open http://localhost:${port}/
 	python -m SimpleHTTPServer ${port}
+}
+
+function ip(){
+	curl http://ipecho.net/plain
 }
