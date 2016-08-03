@@ -11,3 +11,7 @@ function server(){
 function ip(){
 	curl --silent http://ipecho.net/plain
 }
+
+function head(){
+	curl --silent -I $1
+}
